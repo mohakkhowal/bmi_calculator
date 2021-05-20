@@ -1,0 +1,10 @@
+import 'package:flutter/material.dart';
+const activeCardColor = Color(0xFF1D1F33);
+const buttonColor = Color(0xFF4C4F5E);
+const inactiveCardColor = Color(0xFF111328);
+const labelTextstyle = TextStyle(color: Color(0xFF8D8E98),fontSize: 18);
+const numberstyle = TextStyle(fontSize: 50,fontWeight: FontWeight.w900); 
+const largeButtonTextStyle = TextStyle(fontSize: 25,fontWeight: FontWeight.w500);
+const kTitleTextStyle = TextStyle(fontSize: 50,fontWeight: FontWeight.bold);
+const resultTextStyle = TextStyle(fontSize: 22,fontWeight: FontWeight.bold,color: Color(0xFF24D876));
+const bmiTextStyle = TextStyle(fontSize: 100,fontWeight: FontWeight.bold);
